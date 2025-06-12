@@ -1,0 +1,4 @@
+{
+    "no_parameter": "‼️ **Отсутствует параметр команды**\n\n`{command}`",
+    "invalid_parameter": "‼️ **Введен неверный параметр:**\n`{command} {parameter}`\n\n{exc}"
+}

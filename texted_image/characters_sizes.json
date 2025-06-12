@@ -1,0 +1,643 @@
+{
+    "font": {
+        "name": "TT Rationalist Trl",
+        "style": "Medium Italic",
+        "size": 100
+    },
+    "a": {
+        "width": 56,
+        "height": 50
+    },
+    "b": {
+        "width": 55,
+        "height": 70
+    },
+    "c": {
+        "width": 50,
+        "height": 50
+    },
+    "d": {
+        "width": 55,
+        "height": 70
+    },
+    "e": {
+        "width": 46,
+        "height": 50
+    },
+    "f": {
+        "width": 30,
+        "height": 71
+    },
+    "g": {
+        "width": 51,
+        "height": 50
+    },
+    "h": {
+        "width": 54,
+        "height": 70
+    },
+    "i": {
+        "width": 28,
+        "height": 68
+    },
+    "j": {
+        "width": 24,
+        "height": 68
+    },
+    "k": {
+        "width": 51,
+        "height": 70
+    },
+    "l": {
+        "width": 28,
+        "height": 70
+    },
+    "m": {
+        "width": 79,
+        "height": 50
+    },
+    "n": {
+        "width": 54,
+        "height": 50
+    },
+    "o": {
+        "width": 50,
+        "height": 50
+    },
+    "p": {
+        "width": 55,
+        "height": 50
+    },
+    "q": {
+        "width": 53,
+        "height": 50
+    },
+    "r": {
+        "width": 39,
+        "height": 50
+    },
+    "s": {
+        "width": 41,
+        "height": 50
+    },
+    "t": {
+        "width": 32,
+        "height": 65
+    },
+    "u": {
+        "width": 55,
+        "height": 49
+    },
+    "v": {
+        "width": 47,
+        "height": 49
+    },
+    "w": {
+        "width": 67,
+        "height": 49
+    },
+    "x": {
+        "width": 49,
+        "height": 49
+    },
+    "y": {
+        "width": 50,
+        "height": 49
+    },
+    "z": {
+        "width": 48,
+        "height": 49
+    },
+    "A": {
+        "width": 64,
+        "height": 70
+    },
+    "B": {
+        "width": 61,
+        "height": 70
+    },
+    "C": {
+        "width": 69,
+        "height": 71
+    },
+    "D": {
+        "width": 66,
+        "height": 70
+    },
+    "E": {
+        "width": 61,
+        "height": 70
+    },
+    "F": {
+        "width": 58,
+        "height": 70
+    },
+    "G": {
+        "width": 72,
+        "height": 71
+    },
+    "H": {
+        "width": 74,
+        "height": 70
+    },
+    "I": {
+        "width": 37,
+        "height": 70
+    },
+    "K": {
+        "width": 66,
+        "height": 70
+    },
+    "L": {
+        "width": 56,
+        "height": 70
+    },
+    "M": {
+        "width": 91,
+        "height": 70
+    },
+    "N": {
+        "width": 74,
+        "height": 70
+    },
+    "O": {
+        "width": 70,
+        "height": 71
+    },
+    "P": {
+        "width": 58,
+        "height": 70
+    },
+    "Q": {
+        "width": 70,
+        "height": 71
+    },
+    "R": {
+        "width": 66,
+        "height": 70
+    },
+    "S": {
+        "width": 55,
+        "height": 71
+    },
+    "T": {
+        "width": 62,
+        "height": 70
+    },
+    "U": {
+        "width": 74,
+        "height": 70
+    },
+    "V": {
+        "width": 65,
+        "height": 70
+    },
+    "W": {
+        "width": 95,
+        "height": 70
+    },
+    "X": {
+        "width": 67,
+        "height": 70
+    },
+    "Y": {
+        "width": 61,
+        "height": 70
+    },
+    "Z": {
+        "width": 60,
+        "height": 70
+    },
+    "а": {
+        "width": 56,
+        "height": 50
+    },
+    "б": {
+        "width": 53,
+        "height": 76
+    },
+    "в": {
+        "width": 47,
+        "height": 50
+    },
+    "г": {
+        "width": 41,
+        "height": 50
+    },
+    "д": {
+        "width": 50,
+        "height": 75
+    },
+    "е": {
+        "width": 46,
+        "height": 50
+    },
+    "ё": {
+        "width": 46,
+        "height": 69
+    },
+    "ж": {
+        "width": 71,
+        "height": 49
+    },
+    "з": {
+        "width": 45,
+        "height": 50
+    },
+    "и": {
+        "width": 55,
+        "height": 49
+    },
+    "й": {
+        "width": 55,
+        "height": 69
+    },
+    "к": {
+        "width": 51,
+        "height": 49
+    },
+    "л": {
+        "width": 53,
+        "height": 49
+    },
+    "м": {
+        "width": 68,
+        "height": 49
+    },
+    "н": {
+        "width": 55,
+        "height": 49
+    },
+    "о": {
+        "width": 50,
+        "height": 50
+    },
+    "п": {
+        "width": 54,
+        "height": 50
+    },
+    "р": {
+        "width": 55,
+        "height": 50
+    },
+    "с": {
+        "width": 50,
+        "height": 50
+    },
+    "т": {
+        "width": 79,
+        "height": 50
+    },
+    "у": {
+        "width": 50,
+        "height": 49
+    },
+    "ф": {
+        "width": 65,
+        "height": 68
+    },
+    "х": {
+        "width": 49,
+        "height": 49
+    },
+    "ц": {
+        "width": 56,
+        "height": 49
+    },
+    "ч": {
+        "width": 50,
+        "height": 49
+    },
+    "ш": {
+        "width": 79,
+        "height": 49
+    },
+    "щ": {
+        "width": 79,
+        "height": 49
+    },
+    "ъ": {
+        "width": 44,
+        "height": 49
+    },
+    "ы": {
+        "width": 68,
+        "height": 49
+    },
+    "ь": {
+        "width": 44,
+        "height": 49
+    },
+    "э": {
+        "width": 49,
+        "height": 50
+    },
+    "ю": {
+        "width": 70,
+        "height": 50
+    },
+    "я": {
+        "width": 53,
+        "height": 50
+    },
+    "А": {
+        "width": 64,
+        "height": 70
+    },
+    "Б": {
+        "width": 60,
+        "height": 70
+    },
+    "В": {
+        "width": 61,
+        "height": 70
+    },
+    "Г": {
+        "width": 54,
+        "height": 70
+    },
+    "Д": {
+        "width": 74,
+        "height": 70
+    },
+    "Е": {
+        "width": 61,
+        "height": 70
+    },
+    "Ё": {
+        "width": 61,
+        "height": 89
+    },
+    "Ж": {
+        "width": 98,
+        "height": 70
+    },
+    "З": {
+        "width": 57,
+        "height": 71
+    },
+    "И": {
+        "width": 76,
+        "height": 70
+    },
+    "Й": {
+        "width": 76,
+        "height": 91
+    },
+    "К": {
+        "width": 65,
+        "height": 70
+    },
+    "Л": {
+        "width": 71,
+        "height": 70
+    },
+    "М": {
+        "width": 91,
+        "height": 70
+    },
+    "Н": {
+        "width": 74,
+        "height": 70
+    },
+    "О": {
+        "width": 70,
+        "height": 71
+    },
+    "П": {
+        "width": 73,
+        "height": 70
+    },
+    "Р": {
+        "width": 58,
+        "height": 70
+    },
+    "С": {
+        "width": 68,
+        "height": 71
+    },
+    "Т": {
+        "width": 61,
+        "height": 70
+    },
+    "У": {
+        "width": 60,
+        "height": 70
+    },
+    "Ф": {
+        "width": 82,
+        "height": 75
+    },
+    "Х": {
+        "width": 67,
+        "height": 70
+    },
+    "Ц": {
+        "width": 76,
+        "height": 70
+    },
+    "Ч": {
+        "width": 70,
+        "height": 70
+    },
+    "Ш": {
+        "width": 102,
+        "height": 70
+    },
+    "Щ": {
+        "width": 104,
+        "height": 70
+    },
+    "Ъ": {
+        "width": 68,
+        "height": 70
+    },
+    "Ы": {
+        "width": 90,
+        "height": 70
+    },
+    "Ь": {
+        "width": 58,
+        "height": 70
+    },
+    "Э": {
+        "width": 69,
+        "height": 71
+    },
+    "Ю": {
+        "width": 95,
+        "height": 70
+    },
+    "Я": {
+        "width": 68,
+        "height": 70
+    },
+    "1": {
+        "width": 48,
+        "height": 70
+    },
+    "2": {
+        "width": 60,
+        "height": 71
+    },
+    "3": {
+        "width": 56,
+        "height": 70
+    },
+    "4": {
+        "width": 58,
+        "height": 70
+    },
+    "5": {
+        "width": 57,
+        "height": 79
+    },
+    "6": {
+        "width": 57,
+        "height": 70
+    },
+    "7": {
+        "width": 54,
+        "height": 70
+    },
+    "8": {
+        "width": 60,
+        "height": 71
+    },
+    "9": {
+        "width": 57,
+        "height": 71
+    },
+    "0": {
+        "width": 61,
+        "height": 71
+    },
+    "-": {
+        "width": 34,
+        "height": 29
+    },
+    "_": {
+        "width": 36,
+        "height": 14
+    },
+    "=": {
+        "width": 57,
+        "height": 50
+    },
+    "+": {
+        "width": 57,
+        "height": 60
+    },
+    "\\": {
+        "width": 38,
+        "height": 73
+    },
+    "|": {
+        "width": 33,
+        "height": 70
+    },
+    "/": {
+        "width": 40,
+        "height": 73
+    },
+    "[": {
+        "width": 32,
+        "height": 73
+    },
+    "]": {
+        "width": 32,
+        "height": 73
+    },
+    "{": {
+        "width": 34,
+        "height": 73
+    },
+    "}": {
+        "width": 37,
+        "height": 73
+    },
+    ";": {
+        "width": 24,
+        "height": 48
+    },
+    ":": {
+        "width": 23,
+        "height": 48
+    },
+    "'": {
+        "width": 24,
+        "height": 70
+    },
+    "\"": {
+        "width": 67,
+        "height": 44
+    },
+    "?": {
+        "width": 57,
+        "height": 71
+    },
+    ".": {
+        "width": 23,
+        "height": 12
+    },
+    ",": {
+        "width": 24,
+        "height": 11
+    },
+    "<": {
+        "width": 57,
+        "height": 59
+    },
+    ">": {
+        "width": 57,
+        "height": 59
+    },
+    "!": {
+        "width": 35,
+        "height": 70
+    },
+    "@": {
+        "width": 78,
+        "height": 62
+    },
+    "#": {
+        "width": 70,
+        "height": 70
+    },
+    "$": {
+        "width": 56,
+        "height": 82
+    },
+    "%": {
+        "width": 80,
+        "height": 71
+    },
+    "^": {
+        "width": 40,
+        "height": 70
+    },
+    "&": {
+        "width": 70,
+        "height": 71
+    },
+    "*": {
+        "width": 47,
+        "height": 71
+    },
+    "(": {
+        "width": 30,
+        "height": 73
+    },
+    ")": {
+        "width": 30,
+        "height": 73
+    },
+    "№": {
+        "width": 106,
+        "height": 70
+    },
+    " ": {
+        "width": 20,
+        "height": 50
+    }
+}
